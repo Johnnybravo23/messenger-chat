@@ -1,0 +1,21 @@
+:root {
+  --mainBlue: #23415c;
+  --lightBlue: #009ffd;
+  --mainWhite: #f3f3f3;
+  --mainDark: #232528;
+  --mainYellow: #ffa400;
+  --primaryColor: #555e60;
+  --mainWhite: #fff;
+  --mainBlack: #222;
+  --mainGrey: #ececec;
+  --mainSpacing: 0.1rem;
+  --mainTransition: all 0.3s linear;
+}
+
+* {box-sizing: border-box;}
+body {
+    overflow-x: hidden;
+    font-family: 'Oswald', sans-serif;
+    color: #505962;
+}
+
